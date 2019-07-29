@@ -7,3 +7,5 @@ Zadanie domowe - lekcja 5 ETAP 1 Stwórz ciało funkcji dla poniższego interf
 fib(integer num): [integer] Funkcja fib() ma zaimplementować formalny wzór na Ciąg Fibonacciego. Parametrem wejściowym jest liczbą wyrazów zwróconych w tablicy po zakończeniu działania funkcji. Funkcja powinna sprawdzać poprawność danych wejściowych.\
 
 Nie bój się modyfikować liczby parametrów funkcji. Twoja implementacja Ciągu może zakładać istnienie więcej niż jednego parametru wejściowego. Ważne, aby dodatkowe parametry były opcjonalne i parametr num był pierwszy. Więcej o Ciągu Fibonacciego możesz przeczytać m.in. na Wikipedii ETAP 2 Stwórz zestaw testów jednostkowych bazujący na Jest dla Twojej implementacji
+
+link [jest-unit-test](https://radekel.github.io/jest-unit-test-DaftcodeAcademy/)
