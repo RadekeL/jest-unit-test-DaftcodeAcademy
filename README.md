@@ -8,4 +8,4 @@ fib(integer num): [integer] Funkcja fib() ma zaimplementować formalny wzór n
 
 Nie bój się modyfikować liczby parametrów funkcji. Twoja implementacja Ciągu może zakładać istnienie więcej niż jednego parametru wejściowego. Ważne, aby dodatkowe parametry były opcjonalne i parametr num był pierwszy. Więcej o Ciągu Fibonacciego możesz przeczytać m.in. na Wikipedii ETAP 2 Stwórz zestaw testów jednostkowych bazujący na Jest dla Twojej implementacji
 
-link [jest-unit-test](https://radekel.github.io/jest-unit-test-DaftcodeAcademy/)
+link [jest-unit-test](https://radekel.github.io/jest-unit-test-DaftcodeAcademy/app.html)
